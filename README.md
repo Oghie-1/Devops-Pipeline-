@@ -1,4 +1,4 @@
-# Devops-Pipeline-
+# Devops-Pipeline
 I built a continuous integration pipeline using Cloud Source Repositories, Cloud Build, build triggers, and Container Registry.
 
 Created a repo for my python application 
